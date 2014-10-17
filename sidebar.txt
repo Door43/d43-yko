@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yko:home|Door43 (yko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yko|d43-yko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yko/archive/master.zip|d43-yko.zip]]
+
+**Recent Changes**
+{{changes>ns = yko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yko|Ethnologue data]]
+
